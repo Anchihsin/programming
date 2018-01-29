@@ -15,3 +15,24 @@ down
 setColor(a)
 right
 right
+
+
+
+
+down();
+down();
+down();
+down();
+right();
+var a = getColor();
+down();
+setColor(a);
+right();
+right();
+up();
+right();
+a = getColor();
+down();
+setColor(a);
+right();
+right();
